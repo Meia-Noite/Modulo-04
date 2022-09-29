@@ -1,0 +1,26 @@
+
+
+
+
+body {
+    background-color: rgb(37, 37, 37);
+}
+h1 {
+    color: white;
+}
+
+fieldset {
+    width: 300px;
+    padding: 13px;
+    background-color: rgb(110, 110, 160);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.671);
+}
+
+fieldset > input {
+    margin: 7px;
+}
+
+legend {
+    font-weight: bolder;
+    font-size: large;
+}

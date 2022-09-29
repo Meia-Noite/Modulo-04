@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(113, 179, 236, 0.74);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(70, 110, 146);
+}
+
+form {
+    border: 2px solid gray;
+    margin: auto;
+    margin-top: 13px;
+    padding: 10px;
+    width: 350px;
+    height: 200px;
+    background-color: rgba(165, 42, 42, 0.904);
+    border-radius: 1%;
+}
+
+form > p {
+    padding: 7px;
+    margin-left: 30px;
+}
